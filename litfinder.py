@@ -4,6 +4,7 @@
 Created on Thu Dec  9 11:13:49 2021
 
 @author: thomas hendry 2021
+litfinder program
 www.tmhendry.com
 """
 
